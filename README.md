@@ -21,7 +21,7 @@
 
 윤도현, 201624530, 정보컴퓨터공학과, ehgus9198@pusan.ac.kr, 프론트엔드 및 데이터 파이프라인 설계
 
-유수빈, 201814523 ,해양학과, 
+유수빈, 201814523 ,해양학과, sea1498@pusan.ac.kr, 
 
 ## 시스템 구성도
 ![image](https://user-images.githubusercontent.com/49915643/195479112-d1d4d576-118c-42f3-9696-63eb036f5dc5.png)
@@ -30,8 +30,14 @@
 
 ## 사용법
 
-## 적용된 기술 및 프레임 워크(예정)
-### CNN
-![cnn](https://user-images.githubusercontent.com/49915643/177231081-e2085dc4-316d-400e-bf96-069803a0ded3.png)
-### Django 
-### Deep Learning
+1. 구동 환경 : Jupyter NoteBook 
+2. 설치해야할 패키지 
+  * Gradio 3.2
+  * torch 1.13.0
+  * torchvision 0.14.0
+  * timm 0.6.5
+  * numpy 1.22.3
+  * opencv-python 4.6.0.66
+  * object-detection 0.1
+  * tensorflow-object-dectection-api 0.1.1
+  * rembg 2.0.23
