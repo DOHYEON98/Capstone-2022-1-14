@@ -17,11 +17,11 @@
 
 ## 팀 소개
 
-김준성, 201624452, 정보컴퓨터공학과, know0329@pusan.ac.kr, 프론트엔드 및 ML설계
+김준성, 201624452, 정보컴퓨터공학과, know0329@pusan.ac.kr, 프론트엔드 및 ML설계(어류 분류)
 
 윤도현, 201624530, 정보컴퓨터공학과, ehgus9198@pusan.ac.kr, 프론트엔드 및 데이터 파이프라인 설계
 
-유수빈, 201814523 ,해양학과, sea1498@pusan.ac.kr, 
+유수빈, 201814523 ,해양학과, sea1498@pusan.ac.kr, 모델학습 및 데이터 파이프라인 설계
 
 ## 시스템 구성도
 ![image](https://user-images.githubusercontent.com/49915643/195479112-d1d4d576-118c-42f3-9696-63eb036f5dc5.png)
@@ -41,7 +41,3 @@
   * object-detection 0.1
   * tensorflow-object-dectection-api 0.1.1
   * rembg 2.0.23
-
-3. 간단한 사용법 
-
-
