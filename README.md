@@ -41,3 +41,7 @@
   * object-detection 0.1
   * tensorflow-object-dectection-api 0.1.1
   * rembg 2.0.23
+
+3. 간단한 사용법 
+
+
