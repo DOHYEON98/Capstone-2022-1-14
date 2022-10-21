@@ -27,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/49915643/195479112-d1d4d576-118c-42f3-9696-63eb036f5dc5.png)
 
 ## 소개 및 시연 영상
-
+[![서비스 소개 영상](http://img.youtube.com/vi/GCg0vma1W4g/0.jpg)](https://www.youtube.com/watch?v=GCg0vma1W4g)    
 ## 사용법
 
 1. 구동 환경 : Jupyter NoteBook 
